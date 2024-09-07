@@ -1,2 +1,2 @@
 # restaurant-website
-a restaurant website created using languages html, css, javascript,etc.
+a restaurant website created using languages html,javascript,etc.
